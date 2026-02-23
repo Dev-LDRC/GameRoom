@@ -1,4 +1,4 @@
-# GameRoom - projeto launcher de jogos com assinatura
+# GameRoom - projeto de jogos por assinatura
 
 Este projeto é uma aplicação projetada para simular uma plataforma de loja de jogos, semelhante à Steam ou Epic Games. Ele é construído com uma arquitetura de frontend e backend desacoplados, utilizando tecnologias web modernas.
 
